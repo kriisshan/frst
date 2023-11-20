@@ -1,0 +1,38 @@
+body {
+  
+  position: relative;
+  top: 20px;
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+
+h2 { 
+  font-family: 'Freehand', cursive;
+font-family: 'Outfit', sans-serif;
+}
+
+.contain {
+  position: relative;
+  margin: 0 auto 0 auto;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  width: 395px;
+
+  border-radius: 0.5rem;
+}
+
+p {
+  font-family: 'Freehand', cursive;
+font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  padding: 0 30px 50px;
+}
+
+.QR {
+  position: relative;
+  top: 5px;
+  padding-top: 5px;
+  align-items: center;
+  width: 375px;
+  border-radius: 0.5rem;
+}
